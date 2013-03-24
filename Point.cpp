@@ -1,4 +1,6 @@
-//
+//operator overloading 
+//this overloading enables us to increment all of  int type variables in 
+//the class(instance?)
 #include <iostream>
 using namespace std;
 class POINT
